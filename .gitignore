@@ -18,4 +18,4 @@ target/
 Thumbs.db
 
 # Environment Variables
-user-service/.env
+.env
